@@ -13,3 +13,8 @@ VALUES
 ("Nintendo Switch", "Gaming", 500, 20),
 ("Fender Stratocaster", "Instruments", 1500, 10),
 ("2L 2% Milk jug", "Food", 3, 6),
+("Back to the future 2", "Movie", 20, 2),
+("Iphone", "Mobile", 1000, 30),
+("Oh Henry Chocolate Bar", "Food", 1, 20),
+("Popcorn", "Food", 2, 10),
+("Coca Cola", "Food", 1, 13)
