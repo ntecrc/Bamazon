@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "The app will take in orders from customers and deplete stock from the store's inventory.",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntecrc/Bamazon.git"
+  },
+  "author": "Roberto Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntecrc/Bamazon/issues"
+  },
+  "homepage": "https://github.com/ntecrc/Bamazon#readme"
+}
