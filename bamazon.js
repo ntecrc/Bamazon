@@ -11,7 +11,7 @@ var connection = mysql.createconnection({
 });
 
 function readProducts() {
-    connection.query("SELECT name FROM bamazon", function(err, res) {
+    connection.query("SELECT ID FROM bamazon", function(err, res) {
         if (err){
             connection.end();
             throw err;
